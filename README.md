@@ -4,7 +4,7 @@ This repository contains the source code for brain tumor segmentation from MRI i
 
 ---
 
-## 🚀 Features
+## Features
 
 - MRI image preprocessing (e.g. resizing, filtering, skull stripping)
 - Brain tumor segmentation algorithms implemented in MATLAB
@@ -14,7 +14,7 @@ This repository contains the source code for brain tumor segmentation from MRI i
 
 ---
 
-## 🗂 Project Structure
+## Project Structure
 
 Brain Tumor Segmentation Source Code/
 │
@@ -41,7 +41,7 @@ Edit
 
 ---
 
-## ⚙️ Requirements
+##  Requirements
 
 - MATLAB R2020a or newer
 - Image Processing Toolbox
@@ -50,13 +50,13 @@ Edit
 
 ---
 
-## 🏃 How to Run This Project
+##  How to Run This Project
 
 Follow these simple steps to run the MATLAB Brain Tumor Segmentation project:
 
 ---
 
-### 🎯 1. Extract the Project
+###  1. Extract the Project
 
 - Locate the archive file:
   
@@ -82,7 +82,7 @@ Edit
 
 ---
 
-### 💻 2. Open MATLAB
+###  2. Open MATLAB
 
 - Launch MATLAB
 - Go to:
@@ -98,7 +98,7 @@ Edit
 
 ---
 
-### ⚙️ 3. Check Dataset Paths
+###  3. Check Dataset Paths
 
 - Ensure your dataset folder paths in scripts match your extracted folder structure
 - For example, in `gui.m` or other scripts:
@@ -108,7 +108,7 @@ datasetPath = fullfile(pwd, 'Dataset', 'Images');
 maskPath = fullfile(pwd, 'Dataset', 'Masks');
 Update these if your folders are different.
 
-▶️ 4. Run the Project
+▶ 4. Run the Project
 If your project has a GUI, simply run:
 
 matlab
@@ -118,12 +118,12 @@ gui
 Or double-click gui.m in the MATLAB editor and click Run.
 
 The GUI allows you to:
-✅ Select MRI images
-✅ Perform segmentation
-✅ Visualize results
-✅ Save segmented tumor regions
+- Select MRI images
+- Perform segmentation
+- Visualize results
+- Save segmented tumor regions
 
-📊 5. Check the Results
+5. Check the Results
 Segmentation results are saved in the Results folder
 
 Typically includes:
@@ -134,7 +134,7 @@ Predicted segmentation masks
 
 Overlays of mask on the MRI scan
 
-🧪 6. Evaluate Performance
+6. Evaluate Performance
 If the project includes evaluation scripts:
 
 matlab
@@ -151,10 +151,10 @@ Accuracy
 
 (Adjust this based on your scripts.)
 
-🖼 Example Results
+Example Results
 (Add screenshots of your segmented images here for better visualization.)
 
-📊 Performance Metrics
+Performance Metrics
 Dice Coefficient: XX%
 
 Jaccard Index: XX%
@@ -163,7 +163,7 @@ Accuracy: XX%
 
 (Replace with your actual results.)
 
-📚 Dataset
+Dataset
 This project uses MRI brain images from publicly available datasets, such as:
 
 BraTS (Brain Tumor Segmentation Challenge)
@@ -172,13 +172,13 @@ Custom datasets
 
 (Mention specific datasets you used and cite them properly.)
 
-🤝 Contributing
+Contributing
 Contributions are welcome! Please open issues or submit pull requests to improve the code or documentation.
 
-📜 License
+License
 This project is licensed under the MIT License. See LICENSE for details.
 
-🙋‍♀️ Author
+Author
 Your Name — yourgithubusername
 
 For any queries, reach out to your.email@example.com.
@@ -189,7 +189,7 @@ Edit
 
 ---
 
-## ✅ Quick MATLAB Instructions Summary
+##  Quick MATLAB Instructions Summary
 
 Here’s the bare-bones summary for your README:
 
