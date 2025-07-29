@@ -201,28 +201,9 @@ Here’s the bare-bones summary for your README:
 - Add the project folder to MATLAB path
 - Run:
     gui
-What To Do Next:
-✅ Replace:
 
-Your name, email, and GitHub username
 
-Dice coefficient or other performance metrics
 
-Screenshots in the Example Results section
 
-✅ Add any specific instructions if you have:
 
-Required MATLAB version
-
-Specific Toolbox versions
-
-Large dataset download links
-
-✅ Let me know if you want me to:
-
-Write a shorter version
-
-Create a LICENSE file
-
-Add any missing commands
 
